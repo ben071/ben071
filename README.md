@@ -1,16 +1,29 @@
-### Hi there 👋
+<img align="right" width="140px" src="https://i.reupload.gg/22quS2DGR.png">
 
-<!--
-**ben071/ben071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Benji!
 
-Here are some ideas to get you started:
+### 😄 My pronouns are `he/him` or `they/them`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+## 🔭 Projects
+
+- [TFR Bot](https://github.com/TFR-Development/TFR-Bot)
+- [TFR API](https://github.com/TFR-Development/TFR-API)
+- [furretre.at](https://github.com/TFR-Development/furretre.at)
+
+#
+
+### 📫 _How to reach me_
+You can find all my socials on [benji.monster](https://benji.monster).
+
+#
+
+<details>
+<summary>⚡ GitHub Stats</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben071&layout=compact)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=ben071&show_icons=true)]()
+</details>
+
+#
